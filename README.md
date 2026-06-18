@@ -57,3 +57,9 @@ Styled with a modern, responsive console interface using **Spectre.Console**.
 - Profiles currently loaded or in-use cannot be deleted and are automatically skipped to prevent data corruption.
 - System accounts are hard-excluded by SID check.
 - Always review the list of selected profiles carefully before confirming deletion.
+
+---
+
+## 📄 License
+
+This project is licensed under the terms of the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
