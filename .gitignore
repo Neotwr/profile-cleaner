@@ -1,0 +1,37 @@
+## Ignore Visual Studio temporary files, build results, and user-specific settings
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Visual Studio cache, options, and user files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.jsproj.user
+*.sqlproj.user
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+
+# Visual Studio Code
+.vscode/
+
+# Rider / IntelliJ / WebStorm
+.idea/
+
+# OS-specific
+[Tt]humbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
